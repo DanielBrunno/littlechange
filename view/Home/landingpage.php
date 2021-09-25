@@ -152,18 +152,7 @@
         <button class="btn btn-submit" style="color: #191970;">Entrar</button>
         <small style="color: #ffffff" id="resultadoLogin"></small>
   </form>
-  
-  <!--  <form class="popup-form" id="UsuarioLogin" method="POST" action="index.php?modulo=Validacao&acao=login">
-     <div class="login_icon">LOGIN</div>
-     <input name="login" type="email" autocomplete="off" class="form-control form-white" placeholder="Usu&aacute;rio" required>
-     <input name="senha" type="password" autocomplete="off" class="form-control form-white" placeholder="Senha" required>
-     <div class="text-left">
-      <a target="_blank" href="https://api.whatsapp.com/send?phone=<?=$texto['telefoneAdministracaoTecnica'];?>">Esqueceu a senha?</a>
-    </div>
-    <button id="Entraruser" class="btn btn-submit" style="color: #191970;">Entrar</button>
-    <small style="color: #ffffff" id="resultadoLogin"></small>
-  </form>
-  -->
+
 
   <script type="text/javascript">
     $(document).ready(function(){
@@ -393,43 +382,6 @@
   $('.numero').mask('#########0');
   $('.descontoporcentagem').mask('##0');
 </script>
-
-<div id='whatsapp-chat' class='hide'>
-  <div class='header-chat'>
-    <div class='head-home'>
-      <h3 style="color: #ffffff;">    
-        <?php
-            $hr = date(" H ");
-            if($hr >= 12 && $hr<18) $resp = "Boa tarde!";
-            else if ($hr >= 0 && $hr <12 ) $resp = "Bom dia!";
-            else $resp = "Boa noite!";
-            echo "$resp";
-        ?>
-     </h3>
-     <p>Clique em nosso atendente abaixo para conversar no WhatsApp ou envie um email para <?=$texto['emailSuporteSite'];?></p></div>
-     <div class='get-new hide'><div id='get-label'></div><div id='get-nama'></div></div></div>
-     <div class='home-chat'>
-     <!-- Info Contact Start -->
-        <a class='informasi' href='javascript:void' title='Chat Whatsapp'>
-            <div class='info-avatar'><img src='<?=$site?>img/supportmale.png'/></div>
-            <div class='info-chat'>
-                <span class='chat-label'>Suporte Técnico</span>
-                <span class='chat-nama'>Vamos iniciar o atendimento?</span>
-            </div><span class='my-number'><?=$texto['telefoneAdministracaoTecnica'];?></span>
-        </a>
-        <!-- Info Contact End -->
-        <!-- Info Contact Start -->
-        <!-- Info Contact End -->
-        <div class='blanter-msg'><b>HORÁRIOS: </b> de <i> das 9:00 às 12:00h.</i></div></div>
-        <div class='start-chat hide'>
-            <div class='first-msg'><span>Olá, Como posso te ajudar?</span></div>
-            <div class='blanter-msg'>
-            <input type="text" id='chat-input2' maxlength='120' class="form-control" placeholder='Escreva uma pergunta...' />
-            <a href='javascript:void;' id='send-it'><i class="fa fa-paper-plane" aria-hidden="true"></i></a></div>
-        </div>
-        <div id='get-number'></div><a class='close-chat' href='javascript:void'>×</a>
-</div>
-<a class='blantershow-chat' href='javascript:void' title='Show Chat'><i class='fab fa-whatsapp'></i>Precisa de ajuda?</a>
 <!-- partial -->
 </body>
 </html>
