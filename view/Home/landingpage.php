@@ -1,4 +1,3 @@
-  <hr>
   <style> @media only screen and (max-width: 600px) { #espCel{ padding-top: 30px; } } </style>
   <div id="espCel"></div>
   <!-- SubHeader =============================================== -->
@@ -8,10 +7,10 @@
 		<div class="col-md-4"></div>
 		<div class="col-md-4">
 		
-			<div class="main_title" style="text-align:center; color: #32CD32;   font-family: Times New Roman, Times, serif;">
-				<hr><h3 class="nomargin_top">Deseja mudar seus hábitos? Ou empreender conosco<strong>?</strong></h3> <hr>
+			<div class="main_title" style="text-align:center; color: #32CD32; font-family: Times New Roman, Times, serif; font-size: 18pt;">
+				<hr><h3 class="nomargin_top">Deseja mudar seus hábitos? Ou empreender conosco?</h3> <hr>
 			</div>
-			<br>
+	
 			<h2 style="text-align: center;">Login</h2>
 			<form role="form">
 				<div class="form-group">
@@ -35,7 +34,7 @@
 				</div>
 			</form>
 			<div class="form-group">
-				<label for="exampleInputFile" style="text-align:right; font-size: 14pt;">
+				<label for="exampleInputFile" style="text-align:right; font-size: 18pt;">
 					<a class="btn" href="#">Cadastre-se »</a>
 				</label>
 			</div>
