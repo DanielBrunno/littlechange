@@ -13,18 +13,23 @@
 
 <!--
 <link rel="icon" href="#" type="image/x-icon" />
-
-<link rel="shortcut icon" href="view/resources/iconified/logoTopAzul.png" type="image/x-icon" />
-<link rel="apple-touch-icon" href="view/resources/iconified/logoTopAzul.png" />
-<link rel="apple-touch-icon" sizes="57x57" href="view/resources/iconified/logoTopAzul.png" />
-<link rel="apple-touch-icon" sizes="72x72" href="view/resources/iconified/logoTopAzul.png" />
-<link rel="apple-touch-icon" sizes="76x76" href="view/resources/iconified/logoTopAzul.png" />
-<link rel="apple-touch-icon" sizes="114x114" href="view/resources/iconified/logoTopAzul.png" />
-<link rel="apple-touch-icon" sizes="120x120" href="view/resources/iconified/logoTopAzul.png" />
-<link rel="apple-touch-icon" sizes="144x144" href="view/resources/iconified/logoTopAzul.png" />
-<link rel="apple-touch-icon" sizes="152x152" href="view/resources/iconified/logoTopAzul.png" />
-<link rel = "apple-touch-icon" size = "180x180" href = "view/resources/iconified/logoTopAzul.png" />
 -->
+<link rel="shortcut icon" href="view/resources/img/Logo1.png" type="image/x-icon" />
+<link rel="apple-touch-icon" href="view/resources/img/Logo1.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="view/resources/img/Logo1.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="view/resources/img/Logo1.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="view/resources/img/Logo1.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="view/resources/img/Logo1.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="view/resources/img/Logo1.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="view/resources/img/Logo1.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="view/resources/img/Logo1.png" />
+<link rel = "apple-touch-icon" size = "180x180" href = "view/resources/img/Logo1.png" />
+<style>
+.logoTop {
+  border-radius: 8px;
+  width:13%;
+}
+</style>
 </head>
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50" style="padding: 10px; width:100%; background-image:url('./view/resources/img/fundo.jpeg'); font-size:16pt;">
 
@@ -32,6 +37,7 @@
 <nav class="navbar navbar-default navbar-fixed-top" style="font-size: 15px;">
     <div class="container-fluid">
         <div class="navbar-header">
+        <img class="logoTop"  src="view/resources/img/Logo1.png" alt="Logo">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
