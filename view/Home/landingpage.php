@@ -67,19 +67,14 @@
     <div id="subheader" Style="   height: 350px; background-position: center; background-repeat: no-repeat;  
   background-size: cover; background-repeat: repeat-y; background-image: url('view/resources/img/logoCentral3.png');">
       <div id="sub_content">
-       <h1></h1>
-       <!-- <a target="_blank" style="color: #ffffff;" href="<?=$site;?>Demo"><button class="btn" style="font-size: 25px; background-color: #1bc138; border-radius: 50px; width: 250px; height: 50px;">DEMONSTRAÇÃO</button></a> -->
-       <p></p>
+      <!--   <h1></h1>
+       <a target="_blank" style="color: #ffffff;" href="<?=$site;?>Demo"><button class="btn" style="font-size: 25px; background-color: #1bc138; border-radius: 50px; width: 250px; height: 50px;">DEMONSTRAÇÃO</button></a> -->
+       <p></p> -->
      </div><!-- End sub_content -->
    </div><!-- End subheader -->
    <div class="row">
-   <hr class="more_margin" style="margin:20px;">
 <div class="main_title">
-  <h2 class="nomargin_top" style="color:#191970;">Deseja mudar seus hábitos? Ou <br />empreender conosco<strong>?</strong></h2>
-  <br />
-  <p>
-    Notícias do Blog.
-  </p>
+  <h2 class="nomargin_top" style="color:#191970;">Deseja mudar seus hábitos? Ou <br />empreender conosco<strong>?</strong></h2> 
 </div>
 		<div class="col-md-4">
 			<p>
@@ -90,13 +85,6 @@
 			<h2 style="text-align: center;">
 				Login
 			</h2>
-			
-			
-			
-			
-			<p>
-				<a class="btn" href="#">Cadastre-se »</a>
-			</p>
 			<form role="form">
 				<div class="form-group">
 					 
@@ -114,8 +102,9 @@
 				</div>
 				<div class="form-group">
 					 
-					<label for="exampleInputFile">
-						Cadastre-se!
+					<label for="exampleInputFile" style="text-align:right;">
+          				<a class="btn" href="#">Cadastre-se »</a>
+			
           </label>
 				</div> 
 				<button type="submit" class="btn btn-primary">
