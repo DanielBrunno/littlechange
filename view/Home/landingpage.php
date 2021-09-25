@@ -64,7 +64,7 @@
 
   <!-- SubHeader =============================================== -->
   <section class="parallax-window" id="short" data-parallax="scroll" data-natural-width="1400" data-natural-height="350">
-    <div id="subheader"><img src="./view/resources/img/logoCentral3.png" width="100%" alt=""></div><!-- End subheader -->
+    <div id="subheader"><img src="../resources/img/logoCentral3.png" width="100%" alt=""></div><!-- End subheader -->
    <div class="row">
 		<div class="col-md-4">
 			<p>
@@ -73,7 +73,7 @@
 		</div>
 		<div class="col-md-4">
 		
-			<div class="main_title">
+			<div class="main_title" style="text-align:center;">
 				<h2 class="nomargin_top" style="color:#191970;">Deseja mudar seus hábitos? Ou <br />empreender conosco<strong>?</strong></h2> 
 			</div>
 			<h2 style="text-align: center;">Login</h2>
