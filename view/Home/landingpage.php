@@ -40,7 +40,10 @@
   <body>
   <hr>
   <style>
-  #espCel{ top: 15px; }
+  @media only screen and (max-width: 600px) {
+    #espCel{ padding-top: 30px; }
+	}
+  
   </style>
   <div id="espCel"></div>
   <!-- SubHeader =============================================== -->
