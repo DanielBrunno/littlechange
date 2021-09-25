@@ -54,7 +54,7 @@
 		<div class="col-md-4">
 		
 			<div class="main_title" style="text-align:center; color: #32CD32;">
-				<h3 class="nomargin_top" style="color:#32CD32;">Deseja mudar seus hábitos? Ou empreender conosco<strong>?</strong></h3> 
+				<hr><h3 class="nomargin_top" style="color:#32CD32;">Deseja mudar seus hábitos? Ou empreender conosco<strong>?</strong></h3> <hr>
 			</div>
 			<h2 style="text-align: center;">Login</h2>
 			<form role="form">
