@@ -38,11 +38,5 @@
     <div class="container-fluid">
         <div class="navbar-header">
         <img class="logoTop"  src="view/resources/img/LogoCentral4.png" alt="Logo">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>                        
-            </button>
-        </div>
     </div>
 </nav>
