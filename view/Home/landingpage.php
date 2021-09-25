@@ -64,13 +64,8 @@
 
   <!-- SubHeader =============================================== -->
   <section class="parallax-window" id="short" data-parallax="scroll" data-natural-width="1400" data-natural-height="350">
-    <div id="subheader" Style="   height: 350px; background-position: center; background-repeat: no-repeat;  
+    <div id="subheader" Style="    background-position: center; background-repeat: no-repeat;  
   background-size: cover; background-repeat: repeat-y; background-image: url('view/resources/img/logoCentral3.png');">
-      <div id="sub_content">
-      <!--   <h1></h1>
-       <a target="_blank" style="color: #ffffff;" href="<?=$site;?>Demo"><button class="btn" style="font-size: 25px; background-color: #1bc138; border-radius: 50px; width: 250px; height: 50px;">DEMONSTRAÇÃO</button></a> -->
-       <p></p> -->
-     </div><!-- End sub_content -->
    </div><!-- End subheader -->
    <div class="row">
 <div class="main_title">
