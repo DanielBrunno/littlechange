@@ -46,22 +46,6 @@
     </div>
   </div><!-- End Preload -->
 
-  <!-- Header ================================================== -->
-  <!-- <header> -->
-    <div class="container-fluid" style="position: relative; position: -webkit-sticky; position: sticky; top: 0; z-index: 2; background-color: #DCDCDC; opacity: 0.2;">
-      <div class="row" style="padding-bottom: 8px;">
-        <div class="col--md-4 col-sm-4 col-xs-4">
-         <a href="<?=$site;?>" id="logo">
-          <img src="../view/resources/img/LogoCentral4.png" height="30" width="40" alt="" data-retina="true" class="hidden-xs" style="padding-top:5px">
-          <img src="../view/resources/img/LogoCentral4.png" height="30" width="40" alt="" data-retina="true" class="hidden-lg hidden-md hidden-sm">
-        </a>
-        </div>
-         <a href="#0" data-toggle="modal" data-target="#login_2" style="float: right;margin-top:10px; background-color: #B0C4DE; margin-right:10px; color:#000; padding:5px 12px 5px 12px; border-radius: 4px; text-size: 16pt; filter: contrast(200%);"><b>Login</b></a>
-      </div><!-- End row -->
-    </div><!-- End container -->
-  <!-- </header> -->
-  <!-- End Header =============================================== -->
-
   <!-- SubHeader =============================================== -->
   <section class="parallax-window" id="short" data-parallax="scroll" data-natural-width="1400" data-natural-height="350">
    <!-- <div id="subheader"><img src="../view/resources/img/LogoCentral4.png" width="100%" alt=""></div> --><!-- End subheader -->
@@ -73,7 +57,7 @@
 		</div>
 		<div class="col-md-4">
 		
-			<div class="main_title" style="text-align:center;">
+			<div class="main_title" style="text-align:center; color: #32CD32;">
 				<h3 class="nomargin_top" style="color:#191970;">Deseja mudar seus hábitos? Ou empreender conosco<strong>?</strong></h3> 
 			</div>
 			<h2 style="text-align: center;">Login</h2>
