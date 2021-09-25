@@ -65,7 +65,7 @@
   <!-- SubHeader =============================================== -->
   <section class="parallax-window" id="short" data-parallax="scroll" data-natural-width="1400" data-natural-height="350">
     <div id="subheader" Style="   height: 350px; background-position: center; background-repeat: no-repeat;  
-  background-size: cover; background-repeat: repeat-y; background-image: url('./view/resources/img/logoCentral3.png');">
+  background-size: cover; background-repeat: repeat-y; background-image: url('view/resources/img/logoCentral3.png');">
       <div id="sub_content">
        <h1></h1>
        <!-- <a target="_blank" style="color: #ffffff;" href="<?=$site;?>Demo"><button class="btn" style="font-size: 25px; background-color: #1bc138; border-radius: 50px; width: 250px; height: 50px;">DEMONSTRAÇÃO</button></a> -->
@@ -73,6 +73,14 @@
      </div><!-- End sub_content -->
    </div><!-- End subheader -->
    <div class="row">
+   <hr class="more_margin" style="margin:20px;">
+<div class="main_title">
+  <h2 class="nomargin_top" style="color:#191970;">Deseja mudar seus hábitos? Ou <br />empreender conosco<strong>?</strong></h2>
+  <br />
+  <p>
+    Notícias do Blog.
+  </p>
+</div>
 		<div class="col-md-4">
 			<p>
 				<a class="btn" href="#"></a>
@@ -111,7 +119,7 @@
           </label>
 				</div> 
 				<button type="submit" class="btn btn-primary">
-					Submit
+					Entrar
 				</button>
 			</form>
 		</div>
@@ -124,49 +132,6 @@
 </section><!-- End section -->
 <!-- End SubHeader ============================================ -->
 <!-- Content ================================================== -->
-<div id="sobre" class="container">
-<hr class="more_margin" style="margin:20px;">
-<div class="main_title">
-  <h2 class="nomargin_top" style="color:#191970;">Deseja mudar seus hábitos? Ou <br />empreender conosco<strong>?</strong></h2>
-  <br />
-  <p>
-    Notícias do Blog.
-  </p>
-</div>
-<div class="row">
-  <div class="col-md-6 wow fadeIn" data-wow-delay="0.3s">
-    <div class="feature">
-      <i class="icon_mobile"></i>
-      <h3 style="color: #191970;"><span style="color: #4682B4;">Suporte</span> em Smartphones</h3>
-      <p>Nosso sistema roda em diversos dispositivos.</p>
-   </div>
- </div>
- <div class="col-md-6 wow fadeIn" data-wow-delay="0.4s">
-  <div class="feature">
-          <i class="icon-chart-outline"></i>
-      <h3 style="color: #191970;"><span style="color: #4682B4;">Estatísticas</span> do seu negócio</h3>
-      <p>Gráficos sobre relatórios e ambiente agradável!</p>
- </div>
-</div>
-</div><!-- End row -->
-<div class="row">
-  <div class="col-md-6 wow fadeIn" data-wow-delay="0.5s">
-    <div class="feature">
-       <i class="icon-print-2"></i>
-      <h3 style="color: #191970;"><span style="color: #4682B4;">Impressão</span> de Relatórios.</h3>
-      <p>Imprima relatórios e agilize suas análises.</p>
-    </div>
-  </div>
-  <div class="col-md-6 wow fadeIn" data-wow-delay="0.6s">
-    <div class="feature">
- <i class="icon-arrows-cw-2"></i>
-      <h3 style="color: #191970;"><span style="color: #4682B4;">Atualizações</span> constantes.</h3>
-      <p>Buscamos evoluir o sistema dia-a-dia.</p>
-    </div>
-  </div>
-</div>
-<!-- End row -->
-</div><!-- End container -->
 </div>
 <!--<div id="pass-info" class="clearfix"></div>  -->
 
