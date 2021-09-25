@@ -72,9 +72,7 @@
        <p></p>
      </div><!-- End sub_content -->
    </div><!-- End subheader -->
-  <div id="count" class="hidden-xs">
-  <div class="container-fluid">
-	<div class="row">
+   <div class="row">
 		<div class="col-md-4">
 			<p>
 				<a class="btn" href="#"></a>
@@ -122,13 +120,10 @@
 				<a class="btn" href="#"></a>
 			</p>
 		</div>
-	</div>
 </div>
-  </div>
 </section><!-- End section -->
 <!-- End SubHeader ============================================ -->
 <!-- Content ================================================== -->
-<hr>
 <div id="sobre" class="container">
 <hr class="more_margin" style="margin:20px;">
 <div class="main_title">
