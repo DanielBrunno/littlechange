@@ -44,5 +44,20 @@
                 <span class="icon-bar"></span>                        
             </button>
         </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown" style="heigth:100%;">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">ENTRAR<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                         <form style="width:97%; margin:5px; "  method="POST" action="index.php?modulo=Validacao&acao=login">
+                            <input style="width:100%; margin-top:5px; border-radius:3px;height:40px; " type="text" name="login" placeholder="Usu&aacute;rio" required> 
+                            <input style="width:100%; margin-top:5px; border-radius:3px;height:40px;" type="password" name="senha" placeholder="Senha" required><br>
+                            <li style="test-align:right;"><input style="height:30px;margin-top:5px; padding: 7px 30px 7px 30px; color:#FFFFFF; background:#006400; border:1px; border-radius:5px; border-color:#008000; " type="submit" name="Entrar" value="ENTRAR" /> </li>
+                        </form>    
+                    <li><hr></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
     </div>
 </nav>

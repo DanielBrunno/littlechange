@@ -38,23 +38,16 @@
   </head>
 
   <body>
-  <div id="preloader" style="background-color: #4682B4;">
-    <div class="sk-spinner sk-spinner-wave" id="status">
-      <div class="sk-rect1"></div>
-      <div class="sk-rect2"></div>
-      <div class="sk-rect3"></div>
-    </div>
-  </div><!-- End Preload -->
-
+  <hr>
+  <style>
+  #espCel{ top: 15px; }
+  </style>
+  <div id="espCel"></div>
   <!-- SubHeader =============================================== -->
-  <section class="parallax-window" id="short" data-parallax="scroll" data-natural-width="1400" data-natural-height="350">
+  <section class="parallax-window" id="short" data-parallax="scroll">
    <!-- <div id="subheader"><img src="../view/resources/img/LogoCentral4.png" width="100%" alt=""></div> --><!-- End subheader -->
    <div class="row">
-		<div class="col-md-4">
-			<p>
-				<a class="btn" href="#"></a>
-			</p>
-		</div>
+		<div class="col-md-4"></div>
 		<div class="col-md-4">
 		
 			<div class="main_title" style="text-align:center; color: #32CD32;">
@@ -88,11 +81,7 @@
 				</label>
 			</div>
 		</div>
-		<div class="col-md-4">
-			<p>
-				<a class="btn" href="#"></a>
-			</p>
-		</div>
+		<div class="col-md-4"> </div>
 </div>
 </section><!-- End section -->
 <!-- End SubHeader ============================================ -->
@@ -103,10 +92,6 @@
 </div><!-- End row  -->
 </div><!-- End container  -->
 <!-- End Content =============================================== -->
-
-<div class="layer"></div><!-- Mobile menu overlay mask -->
- 
-
 <!-- COMMON SCRIPTS -->
 
 <script src="<?=$site;?>js/common_scripts_min.js"></script>
