@@ -64,7 +64,7 @@
 
   <!-- SubHeader =============================================== -->
   <section class="parallax-window" id="short" data-parallax="scroll" data-natural-width="1400" data-natural-height="350">
-    <div id="subheader"><img src="../view/resources/img/LogoCentral3.png" width="100%" alt=""></div><!-- End subheader -->
+    <div id="subheader"><img src="../view/resources/img/LogoCentral4.png" width="100%" alt=""></div><!-- End subheader -->
    <div class="row">
 		<div class="col-md-4">
 			<p>
