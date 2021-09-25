@@ -68,15 +68,16 @@
   background-size: cover; background-repeat: repeat-y; background-image: url('view/resources/img/logoCentral3.png');">
    </div><!-- End subheader -->
    <div class="row">
-<div class="main_title">
-  <h2 class="nomargin_top" style="color:#191970;">Deseja mudar seus hábitos? Ou <br />empreender conosco<strong>?</strong></h2> 
-</div>
 		<div class="col-md-4">
 			<p>
 				<a class="btn" href="#"></a>
 			</p>
 		</div>
 		<div class="col-md-4">
+		
+		<div class="main_title">
+  <h2 class="nomargin_top" style="color:#191970;">Deseja mudar seus hábitos? Ou <br />empreender conosco<strong>?</strong></h2> 
+</div>
 			<h2 style="text-align: center;">
 				Login
 			</h2>
@@ -95,17 +96,17 @@
 					</label>
 					<input type="password" class="form-control" id="exampleInputPassword1" />
 				</div>
-				<div class="form-group">
-					 
-					<label for="exampleInputFile" style="text-align:right;">
-          				<a class="btn" href="#">Cadastre-se »</a>
-			
-          </label>
-				</div> 
+				<div style="text-align:right;">
 				<button type="submit" class="btn btn-primary">
 					Entrar
 				</button>
+				</div>
 			</form>
+			<div class="form-group">
+				<label for="exampleInputFile" style="text-align:right;">
+					<a class="btn" href="#">Cadastre-se »</a>
+				</label>
+			</div>
 		</div>
 		<div class="col-md-4">
 			<p>
