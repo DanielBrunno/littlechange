@@ -56,6 +56,7 @@
 			<div class="main_title" style="text-align:center; color: #32CD32;">
 				<hr><h3 class="nomargin_top" style="color:#32CD32;">Deseja mudar seus hábitos? Ou empreender conosco<strong>?</strong></h3> <hr>
 			</div>
+			<br>
 			<h2 style="text-align: center;">Login</h2>
 			<form role="form">
 				<div class="form-group">
@@ -79,7 +80,7 @@
 				</div>
 			</form>
 			<div class="form-group">
-				<label for="exampleInputFile" style="text-align:right;">
+				<label for="exampleInputFile" style="text-align:right; font-size: 14pt;">
 					<a class="btn" href="#">Cadastre-se »</a>
 				</label>
 			</div>
