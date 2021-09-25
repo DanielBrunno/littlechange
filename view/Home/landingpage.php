@@ -64,9 +64,7 @@
 
   <!-- SubHeader =============================================== -->
   <section class="parallax-window" id="short" data-parallax="scroll" data-natural-width="1400" data-natural-height="350">
-    <div id="subheader" Style="    background-position: center; background-repeat: no-repeat;  
-  background-size: cover; background-repeat: repeat-y; background-image: url('view/resources/img/logoCentral3.png');">
-   </div><!-- End subheader -->
+    <div id="subheader"><img src="./view/resources/img/logoCentral3.png" width="100%" alt=""></div><!-- End subheader -->
    <div class="row">
 		<div class="col-md-4">
 			<p>
