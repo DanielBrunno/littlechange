@@ -34,9 +34,10 @@
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50" style="padding: 10px; width:100%; background-image:url('./view/resources/img/fundo.jpeg'); font-size:16pt;">
 
 <!-- INÍCIO DO MENU SUPERIOR -->
-<nav class="navbar navbar-default navbar-fixed-top" style="font-size: 15px;">
+<!-- <nav class="navbar navbar-default navbar-fixed-top" style="font-size: 15px;">
     <div class="container-fluid">
         <div class="navbar-header">
         <img class="logoTop"  src="view/resources/img/LogoCentral4.png" alt="Logo">
     </div>
 </nav>
+-->
