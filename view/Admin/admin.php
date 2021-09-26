@@ -189,7 +189,7 @@ body {
       </li>
       <li>
         <a href="" class="card">
-          <img src="https://sustentavel.com.br/wp-content/uploads/2019/12/Embalagens-sustent%C3%A1veis-1-810x494.jpg" class="card__image" alt="" />
+          <img src="https://sustentavel.com.br/wp-content/uploads/2019/11/Produtos-biodegrad%C3%A1veis-1-810x431.jpg" class="card__image" alt="" />
           <div class="card__overlay">
             <div class="card__header">
               <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -207,7 +207,7 @@ body {
       </li>
       <li>
         <a href="" class="card">
-          <img src="https://sustentavel.com.br/wp-content/uploads/2019/12/Embalagens-sustent%C3%A1veis-1-810x494.jpg" class="card__image" alt="" />
+          <img src="https://sustentavel.com.br/wp-content/uploads/2018/07/pl%C3%A1sticos-1-810x457.jpg" class="card__image" alt="" />
           <div class="card__overlay">
             <div class="card__header">
               <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -225,7 +225,7 @@ body {
       </li>
   <li>
     <a href="" class="card">
-      <img src="https://sustentavel.com.br/wp-content/uploads/2018/07/pl%C3%A1sticos-1-810x457.jpg" class="card__image" alt="" />
+      <img src="https://sustentavel.com.br/wp-content/uploads/2018/07/lustres.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
