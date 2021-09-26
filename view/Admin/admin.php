@@ -172,7 +172,7 @@ body {
        
   <li>
     <a href="" class="card">
-      <img src="https://sustentavel.com.br/wp-content/uploads/2018/07/lustres.jpg" class="card__image" alt="" />
+      <img src="https://sustentavel.com.br/wp-content/uploads/2019/12/Embalagens-sustent%C3%A1veis-1-810x494.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -185,7 +185,8 @@ body {
             <span class="card__status">1 hour ago</span>
           </div>
         </div>
-        <p class="card__description">Nem todo plástico é reciclável: conheça... Qual o material mais presente no dia a dia? Exato, o plástico.</p>
+        <p class="card__description"> Você sabia que é possível criar e usar embalagens sustentáveis? O meio ambiente é afetado.</p>
+
       </div>
     </a>
   </li>
@@ -205,11 +206,7 @@ body {
             <span class="card__status">3 hour ago</span>
           </div>
         </div>
-        <p class="card__description">
-        Você sabia que é possível criar e usar embalagens sustentáveis? O meio ambiente é afetado ... 
-        
-
-        </p>
+        <p class="card__description">Nem todo plástico é reciclável: conheça... Qual o material mais presente no dia a dia? Exato, o plástico.</p>
       </div>
     </a>
   </li>
