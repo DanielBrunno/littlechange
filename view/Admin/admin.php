@@ -195,7 +195,7 @@ body {
               <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
                 <path />
               </svg>
-              <img class="card__thumb" src="https://i.imgur.com/7D7I6dI.png" alt="" />
+              <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
               <div class="card__header-text">
                 <h3 class="card__title">kim Cattrall</h3>
                 <span class="card__status">1 hour ago</span>
@@ -231,7 +231,7 @@ body {
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
             <path />
           </svg>
-          <img class="card__thumb" src="https://i.imgur.com/7D7I6dI.png" alt="" />
+          <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
           <div class="card__header-text">
             <h3 class="card__title">Jessica </h3>
          <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
