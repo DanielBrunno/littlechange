@@ -60,7 +60,7 @@
 					<label for="exampleInputEmail1">
 						Estado:
 					</label>
-					<input type="text" class="form-control" id="exampleInputEmail1" />
+					<?php include 'estados.php'?>				
 				</div>
 				<div style="text-align:right;">
 				<button type="submit" class="btn btn-primary">
