@@ -495,7 +495,7 @@ body {
       <div class="sidebar-brand">
         <a href="#"><img class="logoTop" style="width: 60%;"  src="view/resources/img/LogoCentralBranco1.png" alt="Logo"></a>
         <div id="close-sidebar">
-        <i class='fas fa-times-circle' style='font-size:24px'></i>
+          <span class="material-icons">close</span>
         </div>
       </div>
       <div class="sidebar-header">
