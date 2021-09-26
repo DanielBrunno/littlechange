@@ -245,7 +245,6 @@ body {
 .sidebar-wrapper .sidebar-menu .sidebar-dropdown > a:after {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
-  content: "\f105";
   font-style: normal;
   display: inline-block;
   font-style: normal;
@@ -533,10 +532,10 @@ body {
           </li>
           <li class="sidebar-dropdown">
             <a href="#">
-              <i class="fa fa-tachometer-alt"></i>
-              <span>Dashboard</span>
-              <span class="badge badge-pill badge-warning">New</span>
-            </a>
+            <i class="fa fa-tachometer-alt"></i>
+            <span>Dashboard</span>
+            <i class="material-icons" style=" position: absolute; right: 0px;">chevron_right</i> 
+            </a>             
             <div class="sidebar-submenu">
               <ul>
                 <li>
@@ -557,7 +556,7 @@ body {
             <a href="#">
               <i class="fa fa-shopping-cart"></i>
               <span>Marketplace</span>
-              <span class="badge badge-pill badge-danger">3</span>
+              <i class="material-icons" style=" position: absolute; right: 0px;">chevron_right</i>
             </a>
             <div class="sidebar-submenu">
               <ul>
@@ -579,6 +578,7 @@ body {
             <a href="#">
               <i class="far fa-gem"></i>
               <span>Configurações</span>
+              <i class="material-icons" style=" position: absolute; right: 0px;">chevron_right</i>
             </a>
             <div class="sidebar-submenu">
               <ul>
@@ -598,6 +598,7 @@ body {
             <a href="#">
               <i class="fa fa-chart-line"></i>
               <span>Evolução</span>
+              
             </a>
             <div class="sidebar-submenu">
               <ul>
@@ -644,6 +645,7 @@ body {
             <a href="./index.php"> 
               <i class="fas fa-sign-out-alt"></i>
               <span>Log Out</span>
+              <i class="material-icons" style=" position: absolute; right: 0px;">directions_run</i>
             </a>
           </li>
         </ul>
