@@ -202,10 +202,14 @@ body {
           <div class="card__header-text">
             <h3 class="card__title">kim Cattrall </h3>
          <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
-            <span class="card__status">1 hour ago</span>
+            <span class="card__status">3 hour ago</span>
           </div>
         </div>
-        <p class="card__description">Nem todo plástico é reciclável: conheça... Qual o material mais presente no dia a dia? Exato, o plástico.</p>
+        <p class="card__description">
+        Você sabia que é possível criar e usar embalagens sustentáveis? O meio ambiente é afetado ... 
+        
+
+        </p>
       </div>
     </a>
   </li>
@@ -222,7 +226,7 @@ body {
           <div class="card__header-text">
             <h3 class="card__title">Jéssica Parker </h3>
          <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
-            <span class="card__status">1 hour ago</span>
+            <span class="card__status">4 hour ago</span>
           </div>
         </div>
         <p class="card__description">Nem todo plástico é reciclável: conheça... Qual o material mais presente no dia a dia? Exato, o plástico.</p>
@@ -242,7 +246,7 @@ body {
           <div class="card__header-text">
             <h3 class="card__title">kim Cattrall </h3>
          <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
-            <span class="card__status">1 hour ago</span>
+            <span class="card__status">5 hour ago</span>
           </div>
         </div>
         <p class="card__description">Nem todo plástico é reciclável: conheça... Qual o material mais presente no dia a dia? Exato, o plástico.</p>
