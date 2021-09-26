@@ -161,32 +161,18 @@ body {
 
   <!-- SubHeader =============================================== -->
   <section class="parallax-window" id="short" data-parallax="scroll">
+  
+
+
 		<div class="col-md-12">
+		
+			
 		<style> li, a, .cards, .card { border-radius: 8px;} </style>
 		<ul class="cards">
+       
   <li>
     <a href="" class="card">
-      <img src="https://sustentavel.com.br/wp-content/uploads/2019/12/Embalagens-sustent%C3%A1veis-1-810x494.jpg" class="card__image" alt="" />
-      <div class="card__overlay">
-        <div class="card__header">
-          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
-            <path />
-          </svg>
-          <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
-          <div class="card__header-text">
-            <h3 class="card__title">Jessica Parker </h3>
-         <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
-            <span class="card__status">1 hour ago</span>
-          </div>
-        </div>
-        <p class="card__description">Embalegens Sustentáveis.</p>
-      </div>
-    </a>
-  </li>
-    
-  <li>
-    <a href="" class="card">
-      <img src="https://sustentavel.com.br/wp-content/uploads/2018/07/pl%C3%A1sticos-1-810x457.jpg" class="card__image" alt="" />
+      <img src="https://sustentavel.com.br/wp-content/uploads/2018/07/lustres.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -196,30 +182,10 @@ body {
           <div class="card__header-text">
             <h3 class="card__title">kim Cattrall </h3>
          <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
-            <span class="card__status">3 hour ago</span>
+            <span class="card__status">1 hour ago</span>
           </div>
         </div>
-        <p class="card__description">Produtos biodegradáveis.</p>
-      </div>
-    </a>
-  </li>
-    
-  <li>
-    <a href="" class="card">
-      <img src="https://sustentavel.com.br/wp-content/uploads/2019/11/Produtos-biodegrad%C3%A1veis-1-810x431.jpg" class="card__image" alt="" />
-      <div class="card__overlay">
-        <div class="card__header">
-          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
-            <path />
-          </svg>
-          <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
-          <div class="card__header-text">
-            <h3 class="card__title">Jessica Parker </h3>
-         <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
-            <span class="card__status">11 hour ago</span>
-          </div>
-        </div>
-        <p class="card__description">Embalegens Sustentáveis.</p>
+        <p class="card__description">Nem todo plástico é reciclável: conheça... Qual o material mais presente no dia a dia? Exato, o plástico.</p>
       </div>
     </a>
   </li>
@@ -236,7 +202,47 @@ body {
           <div class="card__header-text">
             <h3 class="card__title">kim Cattrall </h3>
          <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
-            <span class="card__status">14 hour ago</span>
+            <span class="card__status">1 hour ago</span>
+          </div>
+        </div>
+        <p class="card__description">Nem todo plástico é reciclável: conheça... Qual o material mais presente no dia a dia? Exato, o plástico.</p>
+      </div>
+    </a>
+  </li>
+    
+  <li>
+    <a href="" class="card">
+      <img src="https://sustentavel.com.br/wp-content/uploads/2018/07/lustres.jpg" class="card__image" alt="" />
+      <div class="card__overlay">
+        <div class="card__header">
+          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+            <path />
+          </svg>
+          <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
+          <div class="card__header-text">
+            <h3 class="card__title">kim Cattrall </h3>
+         <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
+            <span class="card__status">1 hour ago</span>
+          </div>
+        </div>
+        <p class="card__description">Nem todo plástico é reciclável: conheça... Qual o material mais presente no dia a dia? Exato, o plástico.</p>
+      </div>
+    </a>
+  </li>
+    
+  <li>
+    <a href="" class="card">
+      <img src="https://sustentavel.com.br/wp-content/uploads/2018/07/lustres.jpg" class="card__image" alt="" />
+      <div class="card__overlay">
+        <div class="card__header">
+          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+            <path />
+          </svg>
+          <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
+          <div class="card__header-text">
+            <h3 class="card__title">kim Cattrall </h3>
+         <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
+            <span class="card__status">1 hour ago</span>
           </div>
         </div>
         <p class="card__description">Nem todo plástico é reciclável: conheça... Qual o material mais presente no dia a dia? Exato, o plástico.</p>
