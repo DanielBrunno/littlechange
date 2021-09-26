@@ -493,7 +493,7 @@ body {
   <nav id="sidebar" class="sidebar-wrapper">
     <div class="sidebar-content">
       <div class="sidebar-brand">
-        <a href="#"> <img class="logoTop" style="width: 100%;"  src="view/resources/img/LogoCentralBranco1.png" alt="Logo"></a>
+        <a href="#"> <img class="logoTop" style="width: 80%;"  src="view/resources/img/LogoCentralBranco1.png" alt="Logo"></a>
         <div id="close-sidebar">
           <i class="fas fa-times"></i>
         </div>
