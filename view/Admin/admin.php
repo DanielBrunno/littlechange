@@ -161,18 +161,13 @@ body {
 
   <!-- SubHeader =============================================== -->
   <section class="parallax-window" id="short" data-parallax="scroll">
-  
-
-
-		<div class="col-md-12">
-		
-			
+  		<div class="col-md-12">	
 		<style> li, a, .cards, .card { border-radius: 8px;} </style>
 		<ul class="cards">
        
   <li>
     <a href="" class="card">
-      <img src="https://sustentavel.com.br/wp-content/uploads/2019/12/Embalagens-sustent%C3%A1veis-1-810x494.jpg" class="card__image" alt="" />
+      <img src="./view/resources/img/bioembalaegem.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -185,7 +180,7 @@ body {
             <span class="card__status">1 hour ago</span>
           </div>
         </div>
-        <p class="card__description"> Você sabia que é possível criar e usar embalagens sustentáveis? O meio ambiente é afetado.</p>
+        <p class="card__description">Embalagens Biodegradáveis.</p>
 
       </div>
     </a>
@@ -193,7 +188,7 @@ body {
     
   <li>
     <a href="" class="card">
-      <img src="https://sustentavel.com.br/wp-content/uploads/2018/07/lustres.jpg" class="card__image" alt="" />
+      <img src="./view/resources/img/produtos.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -206,14 +201,14 @@ body {
             <span class="card__status">3 hour ago</span>
           </div>
         </div>
-        <p class="card__description">Nem todo plástico é reciclável: conheça... Qual o material mais presente no dia a dia? Exato, o plástico.</p>
+        <p class="card__description">Produtos Sustentáveis.</p>
       </div>
     </a>
   </li>
     
   <li>
     <a href="" class="card">
-      <img src="https://sustentavel.com.br/wp-content/uploads/2018/07/lustres.jpg" class="card__image" alt="" />
+      <img src="./view/resources/img/plásticos-1-810x457.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -233,7 +228,7 @@ body {
     
   <li>
     <a href="" class="card">
-      <img src="https://sustentavel.com.br/wp-content/uploads/2018/07/lustres.jpg" class="card__image" alt="" />
+      <img src="./view/resources/img/lustres.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -246,7 +241,7 @@ body {
             <span class="card__status">5 hour ago</span>
           </div>
         </div>
-        <p class="card__description">Nem todo plástico é reciclável: conheça... Qual o material mais presente no dia a dia? Exato, o plástico.</p>
+        <p class="card__description">Ter um pallet adaptado em casa é sinônimo de sustentabilidade e economia, porque a reutilização dos pallets tem um custo muito baixo e o material é fácil de adaptar na decoração de casa, por dar um toque especial e único.</p>
       </div>
     </a>
   </li>
