@@ -42,7 +42,7 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav navbar-right">
-            <li><a style="color: green;" href=""> Olá, Maria: você possui 100 Verdinhas </a></li> -->
+            <li><a style="color: green;" href=""> Olá, Maria: você possui 100 Verdinhas </a></li>
             <li class="dropdown" style="heigth:100%;">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">PAINEL USUÁRIO <span class="caret"></span></a>
                 <ul class="dropdown-menu">

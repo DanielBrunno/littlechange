@@ -1,8 +1,9 @@
+<hr>
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">
 		    <div align="center" id="myPage"> <p  style="text-align:right;">USU&Aacute;RIO: <?php echo isset($_COOKIE['nome']); ?></p>
-            <div id="col1" style="font-size:10px; color:#C0C0C0;">
+            <div id="col1" style="font-size:12px; color:#C0C0C0;">
                 <script LANGUAGE="JavaScript">
                     var now = new Date();
                     var mName = now.getMonth() +1 ;
