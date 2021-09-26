@@ -6,6 +6,8 @@ class Home{
 	public function inicio(){}
 	
 	public function landingpage(){}
+
+	public function cadastre(){}
 	
 	public function noticias(){
 	   $data = new NoticiaDao();

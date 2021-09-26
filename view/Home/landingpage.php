@@ -34,8 +34,8 @@
 				</div>
 			</form>
 			<div class="form-group">
-				<label for="exampleInputFile" style="text-align:right; font-size: 18pt;">
-					<a class="btn" href="#">Cadastre-se »</a>
+				<label for="exampleInputFile">
+					<a class="btn" style="text-align:right; font-size: 16pt;" href="./index.php?modulo=Home&acao=cadastre">Cadastre-se »</a>
 				</label>
 			</div>
 		</div>
