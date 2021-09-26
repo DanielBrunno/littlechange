@@ -123,7 +123,10 @@ body {
 li, a, .cards, .card { border-radius: 8px;} </style>
 <br>
 <hr>
-<div id="col1" style="font-size:12px; color:#C0C0C0; text-align: center;">	
+<div style="z-index:-1;">
+    
+
+<div id="col1" style="font-size:12px; color:#C0C0C0; text-align: center; z-index:-1;">	
 			<h2 style="text-align: center;">Novidades</h2>
 
                 <script LANGUAGE="JavaScript">
@@ -157,9 +160,9 @@ li, a, .cards, .card { border-radius: 8px;} </style>
                     document.write('  '+todaysDate);
                 </script>
   </div>
-<ul class="cards">
+<ul class="cards" style="z-index:-1;">
        
-  <li>
+  <li  style="z-index:-1;">
     <a href="" class="card">
       <img src="./view/resources/img/bioembalaegem.jpg" class="card__image" alt="" />
       <div class="card__overlay">
@@ -180,7 +183,7 @@ li, a, .cards, .card { border-radius: 8px;} </style>
     </a>
   </li>
     
-  <li>
+  <li  style="z-index:-1;">
     <a href="" class="card">
       <img src="./view/resources/img/produtos.jpg" class="card__image" alt="" />
       <div class="card__overlay">
@@ -200,7 +203,7 @@ li, a, .cards, .card { border-radius: 8px;} </style>
     </a>
   </li>
     
-  <li>
+  <li  style="z-index:-1;">
     <a href="" class="card">
       <img src="./view/resources/img/plásticos-1-810x457.jpg" class="card__image" alt="" />
       <div class="card__overlay">
@@ -220,7 +223,7 @@ li, a, .cards, .card { border-radius: 8px;} </style>
     </a>
   </li>
     
-  <li>
+  <li  style="z-index:-1;">
     <a href="" class="card">
       <img src="./view/resources/img/lustres.jpg" class="card__image" alt="" />
       <div class="card__overlay">
@@ -242,4 +245,5 @@ li, a, .cards, .card { border-radius: 8px;} </style>
 </ul>
 
  <hr>
+ </div>
  <br>
