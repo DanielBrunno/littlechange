@@ -37,7 +37,7 @@
 <nav class="navbar navbar-default navbar-fixed-top" style="font-size: 15px; z-index:0;">
 <div class="navbar-header">
 <a id="show-sidebar" class="btn btn-sm btn-dark" href="#">
-    <i class="fas fa-bars"></i>
+    <i class="material-icons">dehaze</i>
   </a>
 <div id="subheader" style="text-align: center; padding: 5px;" ><img src="./view/resources/img/Logo1.png" width="15%" alt=""></div>
 </div>   
