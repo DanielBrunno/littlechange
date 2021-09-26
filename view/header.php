@@ -25,7 +25,10 @@
 <link rel="apple-touch-icon" sizes="152x152" href="view/resources/img/Logo1.png" />
 <link rel = "apple-touch-icon" size = "180x180" href = "view/resources/img/Logo1.png" />
 <style> 
-body{ background: #F0FFF0 url("./view/resources/img/fundo1.png") no-repeat fixed left;}
+body{ background: #F0FFFF url("./view/resources/img/fundo2.png") no-repeat fixed top;
+   
+
+}
 .logoTop {
   border-radius: 8px;
   width:50%;

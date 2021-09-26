@@ -9,7 +9,7 @@
 		<div class="col-md-4"></div>
 		<div class="col-md-4">
 		
-			<div class="main_title" style="text-align:center; color: #32CD32; font-family: Times New Roman, Times, serif; font-size: 18pt;">
+			<div class="main_title" style="text-align:center; color: #2F4F4F; font-family: Times New Roman, Times, serif; font-size: 18pt;">
 				<hr><h3 class="nomargin_top">Deseja mudar seus hábitos? Ou empreender conosco?</h3> <hr>
 			</div>
 	
@@ -37,7 +37,7 @@
 			</form>
 			<div class="form-group">
 				<label for="exampleInputFile">
-					<a class="btn" style="text-align:right; font-size: 16pt;" href="./index.php?modulo=Home&acao=cadastre">Cadastre-se »</a>
+					<a class="btn" style="text-align:right; font-size: 16pt; color:#008080;" href="./index.php?modulo=Home&acao=cadastre">Cadastre-se »</a>
 				</label>
 			</div>
 		</div>
