@@ -11,7 +11,7 @@
 			
 			<h2 style="text-align: center;">Cadastre-se!</h2>
 			<form role="form">
-            <div class="main_title" style="text-align:center; color: #32CD32; font-family: Times New Roman, Times, serif; font-size: 18pt;">
+            <div class="main_title" style="text-align:center; color: #2F4F4F; font-family: Times New Roman, Times, serif; font-size: 18pt;">
 				<hr><h3 class="nomargin_top">Vamos começar.<br> Pessoa Física ou Jurídica?</h3> <hr>
 			</div>
             <select class="form-control" name="tipo" style="width:100%;">
