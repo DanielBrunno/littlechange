@@ -1,7 +1,4 @@
 
-<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
 <style>
     @keyframes swing {
   0% {
@@ -490,13 +487,13 @@ body {
 </style>
 
 <div class="page-wrapper chiller-theme toggled">
-  <a id="show-sidebar" class="btn btn-sm btn-dark" href="#">
+  <a id="show-sidebar" class="btn btn-sm btn-dark" style="z-index:2;" href="#">
     <i class="fas fa-bars"></i>
   </a>
   <nav id="sidebar" class="sidebar-wrapper">
     <div class="sidebar-content">
       <div class="sidebar-brand">
-        <a href="#"><img class="logoTop" style="width: 60%;"  src="view/resources/img/LogoCentralBranco1.png" alt="Logo"></a>
+        <a href="#"><img class="logoTop" style="width: 80%;"  src="view/resources/img/LogoCentralBranco1.png" alt="Logo"></a>
         <div id="close-sidebar">
           <i class="fas fa-times"></i>
         </div>

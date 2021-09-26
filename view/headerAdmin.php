@@ -22,7 +22,6 @@
 <link rel = "apple-touch-icon" size = "180x180" href = "view/resources/img/Logo1.png" />
 
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <style>
 .logoTop {
@@ -34,7 +33,7 @@
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50" style="padding: 10px; width:100%; background-image:url('./view/resources/img/fundo.jpeg'); font-size:16pt;">
 
 <!-- INÍCIO DO MENU SUPERIOR -->
-<nav class="navbar navbar-default navbar-fixed-top" style="font-size: 15px; z-index:2;">
+<nav class="navbar navbar-default navbar-fixed-top" style="font-size: 15px; z-index:1;">
 <div class="navbar-header">
 <div id="subheader" style="text-align: center; padding: 5px;" ><img src="./view/resources/img/Logo1.png" width="15%" alt=""></div>
 </div>   
