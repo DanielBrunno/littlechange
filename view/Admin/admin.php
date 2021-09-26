@@ -206,23 +206,25 @@ body {
         </a>
       </li>
       <li>
-        <a href="" class="card">
-          <img src="https://sustentavel.com.br/wp-content/uploads/2019/11/Produtos-biodegrad%C3%A1veis-1-810x431.jpg" class="card__image" alt="" />
-          <div class="card__overlay">
-            <div class="card__header">
-              <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
-                <path />
-              </svg>
-              <img class="card__thumb" src="https://i.imgur.com/7D7I6dI.png" alt="" />
-              <div class="card__header-text">
-                <h3 class="card__title">Jessica</h3>
-                <span class="card__status">1 hour ago</span>
-              </div>
-            </div>
-            <p class="card__description">Embalegens Sustentáveis</p>
+    <a href="" class="card">
+      <img src="https://sustentavel.com.br/wp-content/uploads/2019/11/Produtos-biodegrad%C3%A1veis-1-810x431.jpg" class="card__image" alt="" />
+      <div class="card__overlay">
+        <div class="card__header">
+          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
+            <path />
+          </svg>
+          <img class="card__thumb" src="https://i.imgur.com/7D7I6dI.png" alt="" />
+          <div class="card__header-text">
+            <h3 class="card__title">Jessica Parker </h3>
+         <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
+            <span class="card__status">1 hour ago</span>
           </div>
-        </a>
-      </li>
+        </div>
+        <p class="card__description">Embalegens Sustentáveis.</p>
+      </div>
+    </a>
+  </li>
+   
   <li>
     <a href="" class="card">
       <img src="https://sustentavel.com.br/wp-content/uploads/2018/07/lustres.jpg" class="card__image" alt="" />
@@ -233,7 +235,7 @@ body {
           </svg>
           <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
           <div class="card__header-text">
-            <h3 class="card__title">Jessica </h3>
+            <h3 class="card__title">kim Cattrall </h3>
          <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
             <span class="card__status">1 hour ago</span>
           </div>
