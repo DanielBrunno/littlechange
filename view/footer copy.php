@@ -25,6 +25,9 @@
       });
     })
     </script>
+    <nav  class="navbar navbar-default navbar-inverse navbar-fixed-bottom" style="font-size: 11px; color:#9497a8; padding:15px 0px 0px 0px; height:10px; background-color:#F2F4F7; border:0px; text-align:center;" role="navigation">
+        <div class="soDesktop01"><a style="color:#9497a8;" href="http://startup.natal.br/"> Desenvolvimento API - Grupo SocialHack em <?php $data = date("Y"); echo $data; ?>.</a></div>
    
+    </nav>
 </body>
 </html>

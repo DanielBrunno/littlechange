@@ -669,6 +669,16 @@ body {
       </a>
     </div>
 -->
+ <!-- sidebar-content  -->
+    <div class="sidebar-footer" style="font-size: 10px; color:#9497a8; padding:0px 0px 0px 0px;  background-color:#F2F4F7; border:0px; text-align:center;">
+        <a style="color:#9497a8;" href="http://startup.natal.br/">
+         Desenvolvimento API - Grupo SocialHack <?php $data = date("Y"); echo $data; ?>.
+      </a>
+
+    </div>
+
+
+
   </nav>
  
 
