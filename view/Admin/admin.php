@@ -179,11 +179,11 @@ body {
           </svg>
           <img class="card__thumb" src="https://i.imgur.com/7D7I6dI.png" alt="" />
           <div class="card__header-text">
-            <h3 class="card__title">Jessica Embalegens Sustentáveis</h3>
+            <h3 class="card__title">Jessica</h3>
             <span class="card__status">1 hour ago</span>
           </div>
         </div>
-        <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+        <p class="card__description">Embalegens Sustentáveis</p>
       </div>
     </a>
   </li>
@@ -197,11 +197,11 @@ body {
           </svg>
           <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
           <div class="card__header-text">
-            <h3 class="card__title">kim Produtos biodegradáveis</h3>
+            <h3 class="card__title">kim</h3>
             <span class="card__status">3 hours ago</span>
           </div>
         </div>
-        <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+        <p class="card__description">Produtos biodegradáveis</p>
       </div>
     </a>
   </li>
@@ -215,12 +215,12 @@ body {
           </svg>
           <img class="card__thumb" src="https://i.imgur.com/7D7I6dI.png" alt="" />
           <div class="card__header-text">
-            <h3 class="card__title">Jessica: Nem todo plástico é reciclável: conheça...</h3>
-            <span class="card__tagline">Qual o material mais presente no dia a dia? Exato, o plástico</span>
+            <h3 class="card__title">Jessica </h3>
+            <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span>
             <span class="card__status">1 hour ago</span>
           </div>
         </div>
-        <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+        <p class="card__description">Qual o material mais presente no dia a dia? Exato, o plástico.</p>
       </div>
     </a>
   </li>
@@ -234,7 +234,7 @@ body {
           </svg>
           <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
           <div class="card__header-text">
-            <h3 class="card__title">kim pallets e móveis para a sua casa!</h3>
+            <h3 class="card__title">kim pallets</h3>
             <span class="card__status">3 hours ago</span>
           </div>
         </div>
