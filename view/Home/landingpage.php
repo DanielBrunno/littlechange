@@ -1,8 +1,10 @@
-  <style> @media only screen and (max-width: 600px) { #espCel{ padding-top: 30px; } } </style>
+  <style> 
+  
+  @media only screen and (max-width: 600px) { #espCel{ padding-top: 30px; } } </style>
   <div id="espCel"></div>
   <!-- SubHeader =============================================== -->
   <section class="parallax-window" id="short" data-parallax="scroll">
-   <div id="subheader"><img src="../view/resources/img/LogoCentral4.png" width="100%" alt=""></div><!-- End subheader -->
+   <img src="./view/resources/img/LogoCentral6.png" width="100%" alt=""><!-- End subheader -->
    <div class="row">
 		<div class="col-md-4"></div>
 		<div class="col-md-4">

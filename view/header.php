@@ -24,14 +24,17 @@
 <link rel="apple-touch-icon" sizes="144x144" href="view/resources/img/Logo1.png" />
 <link rel="apple-touch-icon" sizes="152x152" href="view/resources/img/Logo1.png" />
 <link rel = "apple-touch-icon" size = "180x180" href = "view/resources/img/Logo1.png" />
-<style>
+<style> 
+body{ background: #F0FFF0 url("./view/resources/img/fundo1.png") no-repeat fixed left;}
 .logoTop {
   border-radius: 8px;
   width:50%;
 }
+
+
 </style>
 </head>
-<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50" style="padding: 10px; width:100%; background-image:url('./view/resources/img/fundo.jpeg'); font-size:16pt;">
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50" style="padding: 10px; width:100%; font-size:16pt;">
 
 <!-- INÍCIO DO MENU SUPERIOR -->
 <!-- <nav class="navbar navbar-default navbar-fixed-top" style="font-size: 15px;">
