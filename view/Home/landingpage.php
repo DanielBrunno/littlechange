@@ -12,7 +12,7 @@
 			</div>
 	
 			<h2 style="text-align: center;">Login</h2>
-			<form role="form">
+			<form role="form" method="POST" action="./index.php?modulo=Admin&acao=admin">
 				<div class="form-group">
 					 
 					<label for="exampleInputEmail1">

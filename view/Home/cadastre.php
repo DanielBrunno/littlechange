@@ -15,12 +15,17 @@
 				<hr><h3 class="nomargin_top">Vamos começar.<br> Pessoa Física ou Jurídica?</h3> <hr>
 			</div>
             <select class="form-control" name="tipo" style="width:100%;">
-                <option value="volvo">-</option>
                 <option value="volvo">Física</option>
                 <option value="saab">Jurídica</option>
             </select>
             <hr>
-            <div class="form-group">					 
+			<div class="form-group">					 
+					<label for="exampleInputEmail1">
+						Nome da Empresa, Se pessoa Jurídica:
+					</label>
+					<input type="text" class="form-control" id="exampleInputEmail1" />
+				</div>
+            	<div class="form-group">					 
 					<label for="exampleInputEmail1">
 						Nome:
 					</label>
