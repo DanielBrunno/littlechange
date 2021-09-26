@@ -30,7 +30,6 @@
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50" style="padding: 10px; width:100%; background-image:url('./view/resources/img/fundo.jpeg'); font-size:16pt;">
 
 <!-- INÍCIO DO MENU SUPERIOR -->
-<!--
 <nav class="navbar navbar-default navbar-fixed-top" style="font-size: 15px; z-index:1;">
     <div class="container-fluid">
         <div class="navbar-header">
@@ -55,7 +54,7 @@
                     <li><a href="./index.php"> Log Out </a></li>
                 </ul>
             </li>
-            <li class="dropdown" style="heigth:100%;">
+           <!-- <li class="dropdown" style="heigth:100%;">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">CONSULTAS<span class="caret"></span></a>
                 <ul class="dropdown-menu">
                     <li><a href="./index.php?modulo=Admin&acao=escolaNome"> ESCOLA </a></li>
@@ -66,15 +65,9 @@
         <li class="divider"> </li>
         <li><a href="view/logout.php">SAIR</a></li>
         <li class="divider"> </li>
-
+-->
       
             </ul>
         </div>
     </div>
 </nav>
--->
-
-
-<?php 
-include "./view/menuAdmin.php"; 
-?>

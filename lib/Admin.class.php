@@ -13,6 +13,8 @@ class Admin {
 	function admin(){}
 	
 	function repositorio(){}
+
+	function metas(){}
 	
 	function EscolaNome(){
 	    $data = new EscolaDao();
