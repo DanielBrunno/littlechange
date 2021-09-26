@@ -167,7 +167,7 @@ body {
 		<div class="col-md-12">
 		
 			
-		
+		<style> li, a, .cards, .card { border-radius: 8px;} </style>
 		<ul class="cards">
   <li>
     <a href="" class="card">
