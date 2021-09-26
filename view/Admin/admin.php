@@ -160,7 +160,7 @@ body {
  </style>
 
   <!-- SubHeader =============================================== -->
-  <section class="parallax-window" id="short" data-parallax="scroll">
+
   		<div class="col-md-12">	
 		<style> li, a, .cards, .card { border-radius: 8px;} </style>
 		<ul class="cards">
@@ -250,7 +250,7 @@ body {
 
 		</div>
 </div>
-</section><!-- End section -->
+
 <!-- End SubHeader ============================================ -->
 <!-- Content ================================================== -->
 </div>
