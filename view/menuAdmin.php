@@ -646,13 +646,12 @@ body {
               <span>Log Out</span>
             </a>
           </li>
--->
         </ul>
       </div>
       <!-- sidebar-menu  -->
     </div>
     <!-- sidebar-content  -->
-    <div class="sidebar-footer">
+    <!--<div class="sidebar-footer">
       <a href="#">
         <i class="fa fa-bell"></i>
         <span class="badge badge-pill badge-warning notification">3</span>
@@ -669,6 +668,7 @@ body {
         <i class="fa fa-power-off"></i>
       </a>
     </div>
+-->
   </nav>
  
 

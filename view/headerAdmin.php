@@ -30,6 +30,12 @@
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50" style="padding: 10px; width:100%; background-image:url('./view/resources/img/fundo.jpeg'); font-size:16pt;">
 
 <!-- INÍCIO DO MENU SUPERIOR -->
+<nav class="navbar navbar-default navbar-fixed-top" style="font-size: 15px; z-index:2;">
+<div class="navbar-header">
+<div id="subheader" style="text-align: center; padding: 5px;" ><img src="./view/resources/img/Logo1.png" width="15%" alt=""></div>
+</div>   
+</nav>
+
 <!--
 <nav class="navbar navbar-default navbar-fixed-top" style="font-size: 15px; z-index:1;">
     <div class="container-fluid">
