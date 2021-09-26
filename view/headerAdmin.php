@@ -21,9 +21,8 @@
 <link rel="apple-touch-icon" sizes="152x152" href="view/resources/img/Logo1.png" />
 <link rel = "apple-touch-icon" size = "180x180" href = "view/resources/img/Logo1.png" />
 
-  <meta name='viewport' content='width=device-width, initial-scale=1'>
-<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
-<!--Get your own code at fontawesome.com-->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/js/all.min.js"></script>
 
 <style>
 .logoTop {
