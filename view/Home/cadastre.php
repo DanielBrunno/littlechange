@@ -45,6 +45,18 @@
 				</div>
 				<div class="form-group">					 
 					<label for="exampleInputEmail1">
+						Digite uma senha:
+					</label>
+					<input type="password" class="form-control" id="exampleInputEmail1" />
+				</div>
+				<div class="form-group">					 
+					<label for="exampleInputEmail1">
+						Confirme a Senha:
+					</label>
+					<input type="password" class="form-control" id="exampleInputEmail1" />
+				</div>								
+				<div class="form-group">					 
+					<label for="exampleInputEmail1">
 						WhatsApp / Contato:
 					</label>
 					<input type="text" class="form-control" id="exampleInputEmail1" />
