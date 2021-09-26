@@ -163,8 +163,8 @@ body {
   <section class="parallax-window" id="short" data-parallax="scroll">
    <div id="subheader"><img src="../view/resources/img/LogoCentral4.png" width="100%" alt=""></div><!-- End subheader -->
    <div class="row">
-
-		<div class="col-md-12">
+		<div class="col-md-4"></div>
+		<div class="col-md-4">
 		
 			
 		
@@ -246,6 +246,7 @@ body {
 
 
 		</div>
+		<div class="col-md-4"> </div>
 </div>
 </section><!-- End section -->
 <!-- End SubHeader ============================================ -->

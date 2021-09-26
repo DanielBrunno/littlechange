@@ -46,7 +46,7 @@
             <li class="dropdown" style="heigth:100%;">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">PAINEL USUÁRIO <span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                    <li><a href="./index.php?modulo=Admin&acao=admin"> Atualizar Cadastro </a></li>
+                    <li><a href="./index.php?modulo=Admin&acao=admin"> Perfil </a></li>
                     <li><hr></li>
                     <li><a href="./index.php?modulo=Pessoas&acao=admin"> Novidades </a></li>
                     <li><a href="./index.php?modulo=Admin&acao=admin"> Marketplace </a></li>
