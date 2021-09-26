@@ -207,7 +207,7 @@ body {
   </li>
   <li>
     <a href="" class="card">
-      <img src="https://i.imgur.com/oYiTqum.jpg" class="card__image" alt="" />
+      <img src="https://sustentavel.com.br/wp-content/uploads/2018/07/pl%C3%A1sticos-1-810x457.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -215,8 +215,8 @@ body {
           </svg>
           <img class="card__thumb" src="https://i.imgur.com/7D7I6dI.png" alt="" />
           <div class="card__header-text">
-            <h3 class="card__title">Jessica Parker</h3>
-            <span class="card__tagline">Lorem ipsum dolor sit amet consectetur</span>
+            <h3 class="card__title">Jessica: Nem todo plástico é reciclável: conheça...</h3>
+            <span class="card__tagline">Qual o material mais presente no dia a dia? Exato, o plástico</span>
             <span class="card__status">1 hour ago</span>
           </div>
         </div>
@@ -226,7 +226,7 @@ body {
   </li>
   <li>
     <a href="" class="card">
-      <img src="https://i.imgur.com/2DhmtJ4.jpg" class="card__image" alt="" />
+      <img src="https://sustentavel.com.br/wp-content/uploads/2018/07/lustres.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -234,11 +234,11 @@ body {
           </svg>
           <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
           <div class="card__header-text">
-            <h3 class="card__title">kim Cattrall</h3>
+            <h3 class="card__title">kim pallets e móveis para a sua casa!</h3>
             <span class="card__status">3 hours ago</span>
           </div>
         </div>
-        <p class="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+        <p class="card__description">Ter um pallet adaptado em casa é sinônimo de sustentabilidade e economia, porque a reutilização dos pallets tem um custo muito baixo e o material é fácil de adaptar na decoração de casa, por dar um toque especial e único.</p>
       </div>
     </a>
   </li>
