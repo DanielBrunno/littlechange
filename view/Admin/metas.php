@@ -1,42 +1,4 @@
-<hr>
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-md-12">
-		    <div align="center" id="myPage"> <!-- <p  style="text-align:right;"> USU&Aacute;RIO: <?php // echo isset($_COOKIE['nome']); ?></p> -->
-            <div id="col1" style="font-size:12px; color:#C0C0C0;">
-                <script LANGUAGE="JavaScript">
-                    var now = new Date();
-                    var mName = now.getMonth() +1 ;
-                    var dName = now.getDay() +1;
-                	var dayNr = now.getDate();
-                	var yearNr=now.getYear();
-                	if(dName==1) {Day = "Domingo"; }
-                	if(dName==2) {Day = "Segunda-feira"; }
-                	if(dName==3) {Day = "Ter&ccedil;a-feira"; }
-                	if(dName==4) {Day = "Quarta-feira"; }
-                	if(dName==5) {Day = "Quinta-feira"; }	
-                	if(dName==6) {Day = "Sexta-feira"; }
-                	if(dName==7) {Day = "S&aacute;bado"; }
-                	if(mName==1){Month = "Janeiro"; }
-                	if(mName==2){Month = "Fevereiro"; }
-                	if(mName==3){Month = "Mar&ccedil;o"; }
-                	if(mName==4){Month = "Abril"; }
-                	if(mName==5){Month = "Maio"; }
-                	if(mName==6){Month = "Junho"; }
-                	if(mName==7){Month = "Julho"; }
-                	if(mName==8){Month = "Agosto"; }
-                	if(mName==9){Month = "Setembro"; }
-                	if(mName==10){Month = "Outubro"; }
-                	if(mName==11){Month = "Novembro"; }
-                	if(mName==12){Month = "Dezembro"; }
-                	if(yearNr < 2000) {Year = 1900 + yearNr; }
-                	else {Year = yearNr; }
-                    var todaysDate =( " " + Day + ", " + dayNr + " de " + Month + " de " + Year );
-                    document.write('  '+todaysDate);
-                </script>
-            </div>
-        </div> <hr>
-		<style> 
+<style> 
 		:root {
   --surface-color: #fff;
   --curve: 40;
@@ -157,112 +119,87 @@ body {
   overflow: hidden;
 }
 @media only screen and (max-width: 600px) { #espCel{ padding-top: 30px; } }
- </style>
-<div class="col-md-1" style="z-index:4;">
-  
-  <hr>
-        </div>
 
-<div class="col-md-11">
+li, a, .cards, .card { border-radius: 8px;} </style>
+<br>
+<hr>
+<div style="z-index:-1;">
+    
 
-<div class="main_title" style="text-align:center; color: #32CD32; font-family: Times New Roman, Times, serif; font-size: 18pt;">
-				<hr><h3 class="nomargin_top">METAS</h3> <hr>
-			</div>
-  <!-- SubHeader =============================================== -->
-  <section class="parallax-window" id="short" data-parallax="scroll">
-  		<div class="col-md-12">	
-		<style> li, a, .cards, .card { border-radius: 8px;} </style>
-		<ul class="cards">
+<div id="col1" style="font-size:12px; color:#C0C0C0; text-align: center; z-index:-1;">	
+			<h2 style="text-align: center;">Metas</h2>
+
+                <script LANGUAGE="JavaScript">
+                    var now = new Date();
+                    var mName = now.getMonth() +1 ;
+                    var dName = now.getDay() +1;
+                	var dayNr = now.getDate();
+                	var yearNr=now.getYear();
+                	if(dName==1) {Day = "Domingo"; }
+                	if(dName==2) {Day = "Segunda-feira"; }
+                	if(dName==3) {Day = "Ter&ccedil;a-feira"; }
+                	if(dName==4) {Day = "Quarta-feira"; }
+                	if(dName==5) {Day = "Quinta-feira"; }	
+                	if(dName==6) {Day = "Sexta-feira"; }
+                	if(dName==7) {Day = "S&aacute;bado"; }
+                	if(mName==1){Month = "Janeiro"; }
+                	if(mName==2){Month = "Fevereiro"; }
+                	if(mName==3){Month = "Mar&ccedil;o"; }
+                	if(mName==4){Month = "Abril"; }
+                	if(mName==5){Month = "Maio"; }
+                	if(mName==6){Month = "Junho"; }
+                	if(mName==7){Month = "Julho"; }
+                	if(mName==8){Month = "Agosto"; }
+                	if(mName==9){Month = "Setembro"; }
+                	if(mName==10){Month = "Outubro"; }
+                	if(mName==11){Month = "Novembro"; }
+                	if(mName==12){Month = "Dezembro"; }
+                	if(yearNr < 2000) {Year = 1900 + yearNr; }
+                	else {Year = yearNr; }
+                    var todaysDate =( " " + Day + ", " + dayNr + " de " + Month + " de " + Year );
+                    document.write('  '+todaysDate);
+                </script>
+  </div>
+<ul class="cards" style="z-index:-1;">
        
-  <li>
+  <li  style="z-index:-1;">
     <a href="" class="card">
-      <div class="card__overlay">
-        <div class="card__header">
-          <img class="card__thumb" src="https://i.imgur.com/7D7I6dI.png" alt="" />
-          <div class="card__header-text">
-            <h3 class="card__title"><input type="checkbox" />Reutilizar roupas ou doar. </h3>
-          </div>
-        </div>
-
-      </div>
-    </a>
-  </li>
-    
-  <li>
-    <a href="" class="card">
-      <img src="./view/resources/img/produtos.jpg" class="card__image" alt="" />
+      <img src="./view/resources/img/LogoCentral3.png" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
             <path />
-          </svg>
-          <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
-          <div class="card__header-text">
-            <h3 class="card__title">kim Cattrall </h3>
-         <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
-            <span class="card__status">3 hour ago</span>
+          </svg>      
+          <div class="card__header-text">        
+          <label for="vehicle1">  <input class="card__title" style="width: 20px; height:20px; padding-right: 5px;" type="checkbox" id="vehicle1" name="vehicle1" value="Bike"> Reutilizar roupas ou doar </label><br>
+                    <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
+            <span class="card__status">Até 30.08.2021</span>
           </div>
         </div>
-        <p class="card__description">Produtos Sustentáveis.</p>
       </div>
     </a>
   </li>
-    
-  <li>
+  <li  style="z-index:-1;">
     <a href="" class="card">
-      <img src="./view/resources/img/plásticos-1-810x457.jpg" class="card__image" alt="" />
+      <img src="./view/resources/img/LogoCentral3.png" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
             <path />
-          </svg>
-          <img class="card__thumb" src="https://i.imgur.com/7D7I6dI.png" alt="" />
-          <div class="card__header-text">
-            <h3 class="card__title">Jéssica Parker </h3>
-         <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
-            <span class="card__status">4 hour ago</span>
+          </svg>      
+          <div class="card__header-text">        
+          <label for="vehicle1">  <input class="card__title" style="width: 20px; height:20px; padding-right: 5px;" type="checkbox" id="vehicle1" name="vehicle1" value="Bike"> Utilizar mais luz natural nos ambientes </label><br>
+                    <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
+            <span class="card__status">Até 10.09.2021</span>
           </div>
         </div>
-        <p class="card__description">Nem todo plástico é reciclável: conheça... Qual o material mais presente no dia a dia? Exato, o plástico.</p>
       </div>
     </a>
   </li>
     
-  <li>
-    <a href="" class="card">
-      <img src="./view/resources/img/lustres.jpg" class="card__image" alt="" />
-      <div class="card__overlay">
-        <div class="card__header">
-          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
-            <path />
-          </svg>
-          <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
-          <div class="card__header-text">
-            <h3 class="card__title">kim Cattrall </h3>
-         <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
-            <span class="card__status">5 hour ago</span>
-          </div>
-        </div>
-        <p class="card__description">Ter um pallet adaptado em casa é sinônimo de sustentabilidade e economia, porque a reutilização dos pallets tem um custo muito baixo e o material é fácil de adaptar na decoração de casa, por dar um toque especial e único.</p>
-      </div>
-    </a>
-  </li>
+ 
 </ul>
 
-
-		</div>
-</div>
-</section><!-- End section -->
-
-</div>
-<!-- End SubHeader ============================================ -->
-<!-- Content ================================================== -->
-</div>
-<!--<div id="pass-info" class="clearfix"></div>  -->
-
-
-</div><!-- End container  -->
-<!-- End Content =============================================== -->
-<hr>
-
-</div> </div> </div> <hr>
+ <hr>
+ </div>
+ <br>

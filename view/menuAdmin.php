@@ -492,7 +492,7 @@ body {
   <nav id="sidebar" class="sidebar-wrapper">
     <div class="sidebar-content">
       <div class="sidebar-brand">
-        <a href="#"><img class="logoTop" style="width: 80%;"  src="view/resources/img/LogoCentralBranco1.png" alt="Logo"></a>
+        <a href="./index.php?modulo=Admin&acao=admin"><img class="logoTop" style="width: 80%;"  src="view/resources/img/LogoCentralBranco1.png" alt="Logo"></a>
         <div id="close-sidebar">
           <span class="material-icons">close</span>
         </div>
@@ -529,6 +529,13 @@ body {
         <ul>
           <li class="header-menu">
             <span></span>
+          </li>
+          <li class="sidebar-dropdown">
+            <a href="./index.php?modulo=Admin&acao=admin">
+            <i class="fa fa-tachometer-alt"></i>
+            <span>Início</span>
+          
+            </a>             
           </li>
           <li class="sidebar-dropdown">
             <a href="#">
@@ -588,9 +595,7 @@ body {
                 <li>
                   <a href="#">Dados</a>
                 </li>
-                <li>
-                  <a href="#">Metas</a>
-                </li>
+ 
               </ul>
             </div>
           </li>
@@ -602,8 +607,8 @@ body {
             </a>
             <div class="sidebar-submenu">
               <ul>
-                <li>
-                  <a href="#">Geral</a>
+              <li>
+                  <a href="./index.php?modulo=Admin&acao=metas">Metas</a>
                 </li>
               </ul>
             </div>
@@ -674,7 +679,7 @@ body {
  <!-- sidebar-content  -->
     <div class="sidebar-footer" style="font-size: 10px; color:#9497a8; padding:0px 0px 0px 0px;  background-color:#F2F4F7; border:0px; text-align:center;">
         <a style="color:#9497a8;" href="http://startup.natal.br/">
-         Desenvolvimento API - Grupo SocialHack <?php $data = date("Y"); echo $data; ?>.
+         Desenvolvimento - Grupo SocialHack <?php $data = date("Y"); echo $data; ?>.
       </a>
 
     </div>
