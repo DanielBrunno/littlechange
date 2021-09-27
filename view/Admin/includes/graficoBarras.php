@@ -8,7 +8,7 @@ var myChart = new Chart(ctx, {
     data: {
         labels: ['Ações Sociais', 'Doação de Roupas', 'Seleta de Resíduos', 'Consumo Biodegradáveis', 'Erradicação da Fome', 'Tratamento de Resíduos'],
         datasets: [{
-            label: '# of Votes',
+            label: '# of Análise do progresso mensal',
             data: [12, 19, 3, 5, 2, 100],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
