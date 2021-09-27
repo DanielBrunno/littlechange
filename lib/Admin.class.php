@@ -11,26 +11,20 @@ class Admin {
     function __construct(){}
 	
 	function admin(){}
+	
+	function evolucao() {}
+	
+	function marketplace(){}
 
 	function metas(){}
 
-	function evolucao() {}
-
-	function produtos() {}
-
-	function salvos() {}
+	function novidades() {}
 
 	function perfil() {}
 
-	function novidades() {}
-
-	function pedidos() {}
+	function salvos() {}
 
 	function compras() {}
-
-	function marketplace(){}
-
-
 		
 }
 
