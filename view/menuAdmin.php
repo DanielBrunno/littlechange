@@ -537,11 +537,6 @@ body {
             <div class="sidebar-submenu">
               <ul>
                 <li>
-                  <a href="#">Perfil
-                    <span class="badge badge-pill badge-success">Pro</span>
-                  </a>
-                </li>
-                <li>
                   <a href="./index.php?modulo=Admin&acao=admin">Notificações</a>
                 </li>
                 <li>
@@ -559,7 +554,7 @@ body {
             <div class="sidebar-submenu">
               <ul>
                 <li>
-                  <a href="./index.php?modulo=Admin&acao=admin">Products</a>
+                  <a href="./index.php?modulo=Admin&acao=admin">Produtos</a>
                 </li>
                 <li>
                   <a href="#">Compras</a>
