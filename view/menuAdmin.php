@@ -559,9 +559,7 @@ body {
             <div class="sidebar-submenu">
               <ul>
                 <li>
-                  <a href="./index.php?modulo=Admin&acao=admin">Products
-
-                  </a>
+                  <a href="./index.php?modulo=Admin&acao=admin">Products</a>
                 </li>
                 <li>
                   <a href="#">Compras</a>
@@ -591,6 +589,9 @@ body {
             </a>
             <div class="sidebar-submenu">
               <ul>
+              <li>
+                  <a href="./index.php?modulo=Admin&acao=evolucao">Gráficos</a>
+              </li>              
               <li>
                   <a href="./index.php?modulo=Admin&acao=metas">Metas</a>
               </li>

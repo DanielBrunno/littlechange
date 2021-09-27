@@ -13,6 +13,8 @@ class Admin {
 	function admin(){}
 
 	function metas(){}
+
+	function evolucao() {}
 		
 }
 
