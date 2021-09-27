@@ -1,6 +1,6 @@
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <div style="text-align: center;">
-Análise diária
+Diária
 <canvas id="myChartBar" style="width:600px; height:400px; display:block;"></canvas>
 <script>
 var ctx = document.getElementById('myChartBar').getContext('2d');

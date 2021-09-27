@@ -15,6 +15,22 @@ class Admin {
 	function metas(){}
 
 	function evolucao() {}
+
+	function produtos() {}
+
+	function salvos() {}
+
+	function perfil() {}
+
+	function novidades() {}
+
+	function pedidos() {}
+
+	function compras() {}
+
+	function marketplace(){}
+
+
 		
 }
 

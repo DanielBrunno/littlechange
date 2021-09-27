@@ -1,4 +1,4 @@
- <?php
+<?php
 
 /**
  * Description of Marketplace
@@ -12,8 +12,8 @@
 		<div class="col-md-12">
 		    <div align="center" id="myPage"> <!-- <p  style="text-align:right;"> USU&Aacute;RIO: <?php // echo isset($_COOKIE['nome']); ?></p> -->
         <div id="col1" style="font-size:12px; color:#C0C0C0; text-align: center; z-index:-1;">	
-			    <h2 style="text-align: center;">Ofertas</h2>
-                      <script LANGUAGE="JavaScript">
+			    <h2 style="text-align: center;">Publicações Favoritas</h2>
+                <script LANGUAGE="JavaScript">
                     var now = new Date();
                     var mName = now.getMonth() +1 ;
                     var dName = now.getDay() +1;

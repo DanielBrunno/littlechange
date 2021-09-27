@@ -537,10 +537,10 @@ body {
             <div class="sidebar-submenu">
               <ul>
                 <li>
-                  <a href="./index.php?modulo=Admin&acao=admin">Notificações</a>
+                  <a href="./index.php?modulo=Admin&acao=admin">Publicações</a>
                 </li>
                 <li>
-                  <a href="#">Salvos</a>
+                  <a href="./index.php?modulo=Admin&acao=salvos">Curtidas</a>
                 </li>
               </ul>
             </div>
@@ -554,10 +554,10 @@ body {
             <div class="sidebar-submenu">
               <ul>
                 <li>
-                  <a href="./index.php?modulo=Admin&acao=admin">Produtos</a>
+                  <a href="./index.php?modulo=Admin&acao=marketplace">Ofertas</a>
                 </li>
                 <li>
-                  <a href="#">Compras</a>
+                  <a href="./index.php?modulo=Admin&acao=compras">Compras</a>
                 </li>
               </ul>
             </div>
@@ -571,7 +571,7 @@ body {
             <div class="sidebar-submenu">
               <ul>
                 <li>
-                  <a href="#">Perfil</a>
+                  <a href="./index.php?modulo=Admin&acao=perfil">Perfil</a>
                 </li>
               </ul>
             </div>
