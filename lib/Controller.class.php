@@ -1,5 +1,9 @@
 <?php
-    
+/**
+ * Description of Controller
+ *
+ * @author Daniel Brunno
+ */    
 class Controller {
     
     // Montar a resposta da requisição http:\\localhost\file\function\parametro
@@ -36,5 +40,4 @@ class Controller {
 	}
 
 }
-//landingpage
 ?>

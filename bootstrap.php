@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * Description of View
+ *
+ * @author Daniel Brunno
+ */
+
 require_once 'config.php';
 
 function load_lib($class_name){

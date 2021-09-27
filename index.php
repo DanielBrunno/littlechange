@@ -1,4 +1,10 @@
 <?php
+
+/**
+ * Description of View
+ *
+ * @author Daniel Brunno
+ */
 //Carrega o bootstrap que chama as triats e o model
 require 'bootstrap.php';
 

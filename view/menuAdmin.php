@@ -1,4 +1,12 @@
+<?php
 
+/**
+ * Description of Menu Lateral
+ *
+ * @author Daniel Brunno
+ */
+ 
+?>
 <style>
     @keyframes swing {
   0% {
@@ -486,9 +494,7 @@ body {
 </style>
 
 <div class="page-wrapper chiller-theme toggled">
-  <a id="show-sidebar" class="btn btn-sm btn-dark" href="#">
-    
-  </a>
+  <a id="show-sidebar" class="btn btn-sm btn-dark" href="#"></a>
   <nav id="sidebar" class="sidebar-wrapper">
     <div class="sidebar-content">
       <div class="sidebar-brand">
@@ -511,20 +517,6 @@ body {
           </span>
         </div>
       </div>
-      <!-- sidebar-header  -->
-      <!-- <div class="sidebar-search">
-        <div>
-          <div class="input-group">
-            <input type="text" class="form-control search-menu" placeholder="Buscar...">
-            <div class="input-group-append">
-              <span class="input-group-text">
-                <i class="fa fa-search" aria-hidden="true"></i>
-              </span>
-            </div>
-          </div>
-        </div>
-      </div> -->
-      <!-- sidebar-search  -->
       <div class="sidebar-menu">
         <ul>
           <li class="header-menu">
@@ -533,8 +525,7 @@ body {
           <li class="sidebar-dropdown">
             <a href="./index.php?modulo=Admin&acao=admin">
             <i class="fa fa-tachometer-alt"></i>
-            <span>Início</span>
-          
+            <span>Início</span>          
             </a>             
           </li>
           <li class="sidebar-dropdown">
@@ -551,7 +542,7 @@ body {
                   </a>
                 </li>
                 <li>
-                  <a href="#">Notificações</a>
+                  <a href="./index.php?modulo=Admin&acao=admin">Notificações</a>
                 </li>
                 <li>
                   <a href="#">Salvos</a>
@@ -568,15 +559,12 @@ body {
             <div class="sidebar-submenu">
               <ul>
                 <li>
-                  <a href="#">Products
+                  <a href="./index.php?modulo=Admin&acao=admin">Products
 
                   </a>
                 </li>
                 <li>
                   <a href="#">Compras</a>
-                </li>
-                <li>
-                  <a href="#">Credit Verdinhas</a>
                 </li>
               </ul>
             </div>
@@ -592,59 +580,23 @@ body {
                 <li>
                   <a href="#">Perfil</a>
                 </li>
-                <li>
-                  <a href="#">Dados</a>
-                </li>
- 
               </ul>
             </div>
           </li>
           <li class="sidebar-dropdown">
             <a href="#">
-              <i class="fa fa-chart-line"></i>
-              <span>Evolução</span>
-              
+				<i class="fa fa-chart-line"></i>
+				<span>Evolução</span> 
+				<i class="material-icons" style=" position: absolute; right: 0px;">chevron_right</i>			  
             </a>
             <div class="sidebar-submenu">
               <ul>
               <li>
                   <a href="./index.php?modulo=Admin&acao=metas">Metas</a>
-                </li>
+              </li>
               </ul>
             </div>
           </li>
-<!--          <li class="sidebar-dropdown">
-            <a href="#">
-              <i class="fa fa-globe"></i>
-              <span>Maps</span>
-            </a>
-            <div class="sidebar-submenu">
-              <ul>
-                <li>
-                  <a href="#">Google maps</a>
-                </li>
-                <li>
-                  <a href="#">Open street map</a>
-                </li>
-              </ul>
-            </div>
-          </li>
-          <li class="header-menu">
-            <span>Extra</span>
-          </li>
-          <li>
-            <a href="#">
-              <i class="fa fa-book"></i>
-              <span>Documentation</span>
-              <span class="badge badge-pill badge-primary">Beta</span>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i class="fa fa-calendar"></i>
-              <span>Calendar</span>
-            </a>
-          </li> -->
           <li><hr></li>
           <li>
             <a href="./index.php"> 
@@ -657,38 +609,14 @@ body {
       </div>
       <!-- sidebar-menu  -->
     </div>
-    <!-- sidebar-content  -->
-    <!--<div class="sidebar-footer">
-      <a href="#">
-        <i class="fa fa-bell"></i>
-        <span class="badge badge-pill badge-warning notification">3</span>
-      </a>
-      <a href="#">
-        <i class="fa fa-envelope"></i>
-        <span class="badge badge-pill badge-success notification">7</span>
-      </a>
-      <a href="#">
-        <i class="fa fa-cog"></i>
-        <span class="badge-sonar"></span>
-      </a>
-      <a href="#">
-        <i class="fa fa-power-off"></i>
-      </a>
-    </div>
--->
  <!-- sidebar-content  -->
     <div class="sidebar-footer" style="font-size: 10px; color:#9497a8; padding:0px 0px 0px 0px;  background-color:#F2F4F7; border:0px; text-align:center;">
         <a style="color:#9497a8;" href="http://startup.natal.br/">
          Desenvolvimento - Grupo SocialHack <?php $data = date("Y"); echo $data; ?>.
       </a>
-
     </div>
-
-
-
   </nav>
  
-
 <script>
     $(".sidebar-dropdown > a").click(function() {
   $(".sidebar-submenu").slideUp(200);

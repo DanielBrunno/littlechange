@@ -1,4 +1,11 @@
+ <?php
 
+/**
+ * Description of Cadastre
+ *
+ * @author Daniel Brunno
+ */
+?>
 <style> @media only screen and (max-width: 600px) { #espCel{ padding-top: 30px; } } </style>
   <div id="espCel"></div>
   <!-- SubHeader =============================================== -->

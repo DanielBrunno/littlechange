@@ -1,4 +1,11 @@
-   
+<?php
+
+/**
+ * Description of footer
+ *
+ * @author Daniel Brunno
+ */
+?>
     <script>
     $(document).ready(function(){
       // Initialize Tooltip

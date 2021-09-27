@@ -1,3 +1,12 @@
+ <?php
+
+/**
+ * Description of Notificações
+ *
+ * @author Daniel Brunno
+ */
+?>
+
 <hr>
 <div class="container-fluid">
 	<div class="row">

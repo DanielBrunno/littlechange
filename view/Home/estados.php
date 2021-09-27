@@ -1,4 +1,10 @@
-<?php
+ <?php
+
+/**
+ * Description of Estados
+ *
+ * @author Daniel Brunno
+ */
 ?>
 
 <select class="form-control" id="estado" name="estado">

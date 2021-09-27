@@ -1,4 +1,10 @@
 <?php
+
+/**
+ * Description of View
+ *
+ * @author Daniel Brunno
+ */
 class View {
 
 	private $viewfile;
@@ -13,21 +19,6 @@ class View {
         if ($model_name === "Admin"){
     		$this->headerfile = PATH_VIEW . HEADER_FRONT_ADMIN; 
 	    	$this->footerfile = PATH_VIEW . FOOTER_FRONT; 
-        }else if ($model_name === "Enderecos"){
-    		$this->headerfile = PATH_VIEW . HEADER_FRONT_ADMIN; 
-	    	$this->footerfile = PATH_VIEW . FOOTER_FRONT; 
-        }else if ($model_name === "Escolas"){
-    		$this->headerfile = PATH_VIEW . HEADER_FRONT_ADMIN; 
-	    	$this->footerfile = PATH_VIEW . FOOTER_FRONT; 
-        }else if ($model_name === "Observacoes"){
-    		$this->headerfile = PATH_VIEW . HEADER_FRONT_ADMIN; 
-	    	$this->footerfile = PATH_VIEW . FOOTER_FRONT; 
-        }else if ($model_name === "Pessoas"){
-    		$this->headerfile = PATH_VIEW . HEADER_FRONT_ADMIN; 
-	    	$this->footerfile = PATH_VIEW . FOOTER_FRONT; 
-        }else if ($model_name === "Validacao") {
-    		$this->headerfile = PATH_VIEW . HEADER_FRONT;
-    		$this->footerfile = PATH_VIEW . FOOTER_FRONT; 
 		} else {
 		    $this->headerfile = PATH_VIEW . HEADER_FRONT; 
 		    $this->footerfile = PATH_VIEW . FOOTER_FRONT; 

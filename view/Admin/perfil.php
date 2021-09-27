@@ -1,3 +1,12 @@
+ <?php
+
+/**
+ * Description of Perfil Usuário
+ *
+ * @author Daniel Brunno
+ */
+?>
+
 <hr>
 <div class="container-fluid">
 	<div class="row">

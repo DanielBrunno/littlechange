@@ -1,3 +1,11 @@
+ <?php
+
+/**
+ * Description of footer
+ *
+ * @author Daniel Brunno
+ */
+?>
   <style> 
   
   @media only screen and (max-width: 600px) { #espCel{ padding-top: 30px; } } </style>

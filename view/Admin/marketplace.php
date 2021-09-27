@@ -1,3 +1,11 @@
+ <?php
+
+/**
+ * Description of Marketplace
+ *
+ * @author Daniel Brunno
+ */
+?>
 <hr>
 <div class="container-fluid">
 	<div class="row">
