@@ -1,5 +1,6 @@
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <div style="text-align: center;">
+Análise diária
 <canvas id="myChartBar" style="width:600px; height:400px; display:block;"></canvas>
 <script>
 var ctx = document.getElementById('myChartBar').getContext('2d');
@@ -8,8 +9,8 @@ var myChart = new Chart(ctx, {
     data: {
         labels: ['Ações Sociais', 'Doação de Roupas', 'Seleta de Resíduos', 'Consumo Biodegradáveis', 'Erradicação da Fome', 'Tratamento de Resíduos'],
         datasets: [{
-            label: '# of Análise do progresso mensal',
-            data: [12, 19, 3, 5, 2, 100],
+            label: 'Ações Sociais: precisa praticar',
+            data: [0.1, 5, 3, 5, 2, 10],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(54, 162, 235, 0.2)',

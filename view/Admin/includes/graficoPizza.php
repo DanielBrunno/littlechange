@@ -1,5 +1,6 @@
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <div style="text-align: center;">
+Análise Mensal
 <canvas id="myChartPie" style="width:600px; height:400px; display:block;"></canvas>
 <script>
 var ctx = document.getElementById('myChartPie').getContext('2d');
