@@ -6,7 +6,7 @@ var ctx = document.getElementById('myChartPie').getContext('2d');
 var myChart = new Chart(ctx, {
     type: 'pie',
     data: {
-        labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+        labels: ['Ações Sociais', 'Doação de Roupas', 'Seleta de Resíduos', 'Consumo Biodegradáveis', 'Erradicação da Fome', 'Tratamento de Resíduos'],
         datasets: [{
             label: '# of Votes',
             data: [1, 5, 3, 5, 2, 10],

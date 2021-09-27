@@ -6,7 +6,7 @@ var ctx = document.getElementById('myChartBar').getContext('2d');
 var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
-        labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+        labels: ['Ações Sociais', 'Doação de Roupas', 'Seleta de Resíduos', 'Consumo Biodegradáveis', 'Erradicação da Fome', 'Tratamento de Resíduos'],
         datasets: [{
             label: '# of Votes',
             data: [12, 19, 3, 5, 2, 100],
