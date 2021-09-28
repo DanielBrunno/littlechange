@@ -172,90 +172,48 @@ body {
   <section class="parallax-window" id="short" data-parallax="scroll">
   		<div class="col-md-12">	
 		<style> li, a, .cards, .card { border-radius: 8px;} </style>
-		<ul class="cards">
-       
-  <li>
-    <a href="" class="card">
-      <img src="./view/resources/img/bioembalaegem.jpg" class="card__image" alt="" />
-      <div class="card__overlay">
-        <div class="card__header">
-          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
-            <path />
-          </svg>
-          <img class="card__thumb" src="https://i.imgur.com/7D7I6dI.png" alt="" />
-          <div class="card__header-text">
-            <h3 class="card__title">Jéssica Parker </h3>
-         <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
-            <span class="card__status">1 hour ago</span>
-          </div>
-        </div>
-        <p class="card__description">Embalagens Biodegradáveis.</p>
 
-      </div>
-    </a>
-  </li>
-    
-  <li>
+    <ul class="cards" style="z-index:-1;">
+       
+  <li  style="z-index:-1;">
     <a href="" class="card">
-      <img src="./view/resources/img/produtos.jpg" class="card__image" alt="" />
+      <img src="./view/resources/img/embalagembio1.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
             <path />
-          </svg>
-          <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
-          <div class="card__header-text">
-            <h3 class="card__title">kim Cattrall </h3>
-         <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
-            <span class="card__status">3 hour ago</span>
+          </svg>      
+          <div class="card__header-text">        
+          <label for="vehicle1"> 1 - Embalagens Descartáveis c/50 Unid. </label><br>
+            <span class="card__status" style="color: green;"> <strong>R$ 83,00</strong></span>
+            <span class="card__status" style="color: #191970;">Vendedor: João Embalagens</span>
           </div>
         </div>
-        <p class="card__description">Produtos Sustentáveis.</p>
       </div>
     </a>
   </li>
-    
-  <li>
+  <li  style="z-index:-1;">
     <a href="" class="card">
-      <img src="./view/resources/img/plásticos-1-810x457.jpg" class="card__image" alt="" />
+      <img src="./view/resources/img/camisetaOrg1.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
             <path />
-          </svg>
-          <img class="card__thumb" src="https://i.imgur.com/7D7I6dI.png" alt="" />
-          <div class="card__header-text">
-            <h3 class="card__title">Jéssica Parker </h3>
-         <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
-            <span class="card__status">4 hour ago</span>
+          </svg>      
+          <div class="card__header-text">        
+          <label for="vehicle1">1 - Blusa Eco Tam P. </label><br>
+            <span class="card__status" style="color: green;"><strong>R$ 112,00 </strong></span>
+            <span class="card__status" style="color: #191970;"> Vendedor: Maria Blusas Eco</span>
           </div>
         </div>
-        <p class="card__description">Nem todo plástico é reciclável: conheça... Qual o material mais presente no dia a dia? Exato, o plástico.</p>
       </div>
     </a>
   </li>
     
-  <li>
-    <a href="" class="card">
-      <img src="./view/resources/img/lustres.jpg" class="card__image" alt="" />
-      <div class="card__overlay">
-        <div class="card__header">
-          <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
-            <path />
-          </svg>
-          <img class="card__thumb" src="https://i.imgur.com/sjLMNDM.png" alt="" />
-          <div class="card__header-text">
-            <h3 class="card__title">kim Cattrall </h3>
-         <!--   <span class="card__tagline">Nem todo plástico é reciclável: conheça... </span> -->
-            <span class="card__status">5 hour ago</span>
-          </div>
-        </div>
-        <p class="card__description">Ter um pallet adaptado em casa é sinônimo de sustentabilidade e economia, porque a reutilização dos pallets tem um custo muito baixo e o material é fácil de adaptar na decoração de casa, por dar um toque especial e único.</p>
-      </div>
-    </a>
-  </li>
+ 
 </ul>
 
+ 
 
 		</div>
 </div>

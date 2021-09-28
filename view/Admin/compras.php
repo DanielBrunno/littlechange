@@ -189,27 +189,28 @@ li, a, .cards, .card { border-radius: 8px;} </style>
                 </script>
   </div>
 <ul class="cards" style="z-index:-1;">
-       
+<!--       
   <li  style="z-index:-1;">
     <a href="" class="card">
-      <img src="./view/resources/img/LogoCentral3.png" class="card__image" alt="" />
+      <img src="./view/resources/img/embalagembio1.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
             <path />
           </svg>      
           <div class="card__header-text">        
-          <label for="vehicle1"> 1 - Embalagens Descartáveis c/100 Unid. </label><br>
-            <span class="card__status">R$ 43,00 - </span>
-            <span class="card__status">Data da Compra 30.08.2021</span>
+          <label for="vehicle1"> 1 - Embalagens Descartáveis c/50 Unid. </label><br>
+            <span class="card__status" style="color: green;"> <strong>R$ 83,00</strong></span>
+            <span class="card__status" style="color: #191970;">Data da Compra 30.08.2021</span>
           </div>
         </div>
       </div>
     </a>
   </li>
+-->
   <li  style="z-index:-1;">
     <a href="" class="card">
-      <img src="./view/resources/img/LogoCentral3.png" class="card__image" alt="" />
+      <img src="./view/resources/img/camisetaOrg1.jpg" class="card__image" alt="" />
       <div class="card__overlay">
         <div class="card__header">
           <svg class="card__arc" xmlns="http://www.w3.org/2000/svg">
@@ -217,8 +218,8 @@ li, a, .cards, .card { border-radius: 8px;} </style>
           </svg>      
           <div class="card__header-text">        
           <label for="vehicle1">1 - Blusa Eco Tam P. </label><br>
-            <span class="card__status">R$ 112,00 - </span>
-            <span class="card__status">Data da Compra 27.09.2021</span>
+            <span class="card__status" style="color: green;"><strong>R$ 112,00 </strong></span>
+            <span class="card__status" style="color: #191970;"> - Data da Compra 27.09.2021</span>
           </div>
         </div>
       </div>
